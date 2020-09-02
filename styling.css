@@ -5,8 +5,8 @@
 body{
     padding: 50px;
     /* background-color: #007ae9; */
-    background-image: linear-gradient(to bottom right,#6eb1f0, #0023e9,#6eb1f0);
-    /* background-image: linear-gradient(to top left,#1da852, #ccf165,#0ee4c7); */
+    /* background-image: linear-gradient(to bottom right,#6eb1f0, #0023e9,#6eb1f0);*/
+    background-image: linear-gradient(to top left,#1da852, #ccf165,#0ee4c7);
     /*background-image: url('grey.png');*/
     background-position: center;
 }
