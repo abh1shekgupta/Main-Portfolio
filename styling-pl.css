@@ -5,8 +5,8 @@
 }
 body{
     padding: 50px;
-    /*background-color: #007ae9;*/
-    background-image: url('grey.png');
+    background-image: linear-gradient(to top left,#1da852, #ccf165,#0ee4c7);
+    /*background-image: url('grey.png');*/
     background-position: center;
 }
 
